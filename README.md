@@ -10,4 +10,6 @@ graphql
 "start": "nodemon index"
 
 # run project 
+```
 npm run start
+```
