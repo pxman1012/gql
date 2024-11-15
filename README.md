@@ -11,4 +11,3 @@ graphql
 
 # run project 
 npm run start
-
